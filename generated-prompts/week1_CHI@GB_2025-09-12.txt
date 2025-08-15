@@ -1,0 +1,71 @@
+NFL Game Prediction Analysis
+
+MATCHUP: Chicago Bears @ Green Bay Packers
+DATE: Fri Sep 12 2025
+WEEK: 1 (Regular Season)
+
+=== TEAM INFORMATION ===
+
+Chicago Bears (CHI):
+- Conference: NFC North
+- Stadium: Playing @ Lambeau Field
+- Current Record: 8-9-0
+- Away Record: 4-4
+
+Green Bay Packers (GB):
+- Conference: NFC North
+- Stadium: Lambeau Field (Home advantage)
+- Current Record: 8-9-0
+- Home Record: 4-5
+
+=== OFFENSIVE & DEFENSIVE PERFORMANCE ===
+
+Chicago Bears Offense/Defense:
+- Average Points Scored: 20.6 per game
+- Average Points Allowed: 21.8 per game
+- Total Points For: 350
+- Total Points Against: 370
+- Point Differential: -20
+
+Green Bay Packers Offense/Defense:
+- Average Points Scored: 20.6 per game
+- Average Points Allowed: 21.8 per game
+- Total Points For: 350
+- Total Points Against: 370
+- Point Differential: -20
+
+=== RECENT FORM & MOMENTUM ===
+
+Chicago Bears Last 5 Games: L-W-L-W-L
+Green Bay Packers Last 5 Games: L-W-L-W-L
+
+=== HEAD-TO-HEAD HISTORY ===
+
+All-Time Series: Green Bay Packers 0-0-0 Chicago Bears
+No recent meetings found
+Average Points in Head-to-Head:
+- Green Bay Packers: 0.0 points
+- Chicago Bears: 0.0 points
+
+=== INJURY REPORT & KEY PLAYERS ===
+
+Chicago Bears Injuries: No significant injuries reported
+Chicago Bears Key Players: Key players TBD
+
+Green Bay Packers Injuries: No significant injuries reported
+Green Bay Packers Key Players: Key players TBD
+
+
+
+=== ANALYSIS REQUEST ===
+
+Based on the comprehensive data above, please provide:
+
+1. **GAME PREDICTION**: Who will win and by how many points?
+2. **CONFIDENCE LEVEL**: Rate your confidence (1-10) and explain why
+3. **KEY FACTORS**: What are the 3-5 most important factors that will determine the outcome?
+4. **OVER/UNDER**: Predict the total points scored and whether it will be high/low scoring
+5. **X-FACTORS**: What unexpected elements could swing the game?
+6. **FINAL SCORE PREDICTION**: Provide an exact score prediction
+
+Consider all statistical trends, recent form, injuries, weather (if applicable), home field advantage, divisional rivalry dynamics, and historical matchup patterns in your analysis.
