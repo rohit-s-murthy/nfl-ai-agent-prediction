@@ -1,7 +1,7 @@
 NFL Game Prediction Analysis
 
 MATCHUP: New York Jets @ Miami Dolphins
-DATE: Fri Sep 12 2025
+DATE: 2025-09-12
 WEEK: 1 (Regular Season)
 
 === TEAM INFORMATION ===
@@ -42,10 +42,10 @@ Miami Dolphins Last 5 Games: L-W-L-W-L
 === HEAD-TO-HEAD HISTORY ===
 
 All-Time Series: Miami Dolphins 0-0-0 New York Jets
-No recent meetings found
+Last Meeting: 1970-01-01 - MIA 0, NYJ 0
 Average Points in Head-to-Head:
-- Miami Dolphins: 0.0 points
-- New York Jets: 0.0 points
+- Miami Dolphins: 20.0 points
+- New York Jets: 20.0 points
 
 === INJURY REPORT & KEY PLAYERS ===
 
@@ -54,8 +54,6 @@ New York Jets Key Players: Key players TBD
 
 Miami Dolphins Injuries: No significant injuries reported
 Miami Dolphins Key Players: Key players TBD
-
-
 
 === ANALYSIS REQUEST ===
 

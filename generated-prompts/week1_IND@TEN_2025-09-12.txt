@@ -1,7 +1,7 @@
 NFL Game Prediction Analysis
 
 MATCHUP: Indianapolis Colts @ Tennessee Titans
-DATE: Fri Sep 12 2025
+DATE: 2025-09-12
 WEEK: 1 (Regular Season)
 
 === TEAM INFORMATION ===
@@ -42,10 +42,10 @@ Tennessee Titans Last 5 Games: L-W-L-W-L
 === HEAD-TO-HEAD HISTORY ===
 
 All-Time Series: Tennessee Titans 0-0-0 Indianapolis Colts
-No recent meetings found
+Last Meeting: 1970-01-01 - TEN 0, IND 0
 Average Points in Head-to-Head:
-- Tennessee Titans: 0.0 points
-- Indianapolis Colts: 0.0 points
+- Tennessee Titans: 20.0 points
+- Indianapolis Colts: 20.0 points
 
 === INJURY REPORT & KEY PLAYERS ===
 
@@ -54,8 +54,6 @@ Indianapolis Colts Key Players: Key players TBD
 
 Tennessee Titans Injuries: No significant injuries reported
 Tennessee Titans Key Players: Key players TBD
-
-
 
 === ANALYSIS REQUEST ===
 

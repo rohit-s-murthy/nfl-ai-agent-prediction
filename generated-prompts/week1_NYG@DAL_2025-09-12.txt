@@ -1,7 +1,7 @@
 NFL Game Prediction Analysis
 
 MATCHUP: New York Giants @ Dallas Cowboys
-DATE: Fri Sep 12 2025
+DATE: 2025-09-12
 WEEK: 1 (Regular Season)
 
 === TEAM INFORMATION ===
@@ -42,10 +42,10 @@ Dallas Cowboys Last 5 Games: L-W-L-W-L
 === HEAD-TO-HEAD HISTORY ===
 
 All-Time Series: Dallas Cowboys 0-0-0 New York Giants
-No recent meetings found
+Last Meeting: 1970-01-01 - DAL 0, NYG 0
 Average Points in Head-to-Head:
-- Dallas Cowboys: 0.0 points
-- New York Giants: 0.0 points
+- Dallas Cowboys: 20.0 points
+- New York Giants: 20.0 points
 
 === INJURY REPORT & KEY PLAYERS ===
 
@@ -54,8 +54,6 @@ New York Giants Key Players: Key players TBD
 
 Dallas Cowboys Injuries: No significant injuries reported
 Dallas Cowboys Key Players: Key players TBD
-
-
 
 === ANALYSIS REQUEST ===
 
