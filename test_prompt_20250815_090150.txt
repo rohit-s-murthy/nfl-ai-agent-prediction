@@ -1,0 +1,98 @@
+=== COMPREHENSIVE PROMPT ===
+
+NFL Game Prediction Analysis
+
+MATCHUP: Buffalo Bills @ Kansas City Chiefs
+DATE: 2025-09-12
+WEEK: 1 (Regular Season)
+
+=== TEAM INFORMATION ===
+
+Buffalo Bills (BUF):
+- Conference: AFC East
+- Stadium: Playing @ Arrowhead Stadium
+- Current Record: 13-4-0
+- Away Record: 6-2
+
+Kansas City Chiefs (KC):
+- Conference: AFC West
+- Stadium: Arrowhead Stadium (Home advantage)
+- Current Record: 14-3-0
+- Home Record: 8-1
+
+=== OFFENSIVE & DEFENSIVE PERFORMANCE ===
+
+Buffalo Bills Offense/Defense:
+- Average Points Scored: 28.4 per game
+- Average Points Allowed: 17.0 per game
+- Total Points For: 483
+- Total Points Against: 289
+- Point Differential: +194
+
+Kansas City Chiefs Offense/Defense:
+- Average Points Scored: 28.8 per game
+- Average Points Allowed: 19.6 per game
+- Total Points For: 489
+- Total Points Against: 334
+- Point Differential: +155
+
+=== RECENT FORM & MOMENTUM ===
+
+Buffalo Bills Last 5 Games: W-W-L-W-W
+Kansas City Chiefs Last 5 Games: W-W-W-L-W
+
+=== HEAD-TO-HEAD HISTORY ===
+
+All-Time Series: Kansas City Chiefs 0-0-0 Buffalo Bills
+Last Meeting: 1970-01-01 - KC 0, BUF 0
+Average Points in Head-to-Head:
+- Kansas City Chiefs: 20.0 points
+- Buffalo Bills: 20.0 points
+
+=== INJURY REPORT & KEY PLAYERS ===
+
+Buffalo Bills Injuries: RB1 - Out
+Buffalo Bills Key Players: Josh Allen, Stefon Diggs, Von Miller
+
+Kansas City Chiefs Injuries: WR2 - Questionable
+Kansas City Chiefs Key Players: Patrick Mahomes, Travis Kelce, Chris Jones
+
+=== WEATHER CONDITIONS ===
+Temperature: 72.0°F
+Wind Speed: 8.0 mph
+Conditions: Partly Cloudy
+Precipitation: 10.0%
+
+=== ANALYSIS REQUEST ===
+
+Based on the comprehensive data above, please provide:
+
+1. **GAME PREDICTION**: Who will win and by how many points?
+2. **CONFIDENCE LEVEL**: Rate your confidence (1-10) and explain why
+3. **KEY FACTORS**: What are the 3-5 most important factors that will determine the outcome?
+4. **OVER/UNDER**: Predict the total points scored and whether it will be high/low scoring
+5. **X-FACTORS**: What unexpected elements could swing the game?
+6. **FINAL SCORE PREDICTION**: Provide an exact score prediction
+
+Consider all statistical trends, recent form, injuries, weather (if applicable), home field advantage, divisional rivalry dynamics, and historical matchup patterns in your analysis.
+
+=== QUICK PROMPT ===
+
+Quick NFL Game Prediction
+
+MATCHUP: Buffalo Bills @ Kansas City Chiefs
+WEEK: 1
+
+RECORDS:
+- BUF: 13-4-0 (Away: 6-2)
+- KC: 14-3-0 (Home: 8-1)
+
+SCORING AVERAGES:
+- BUF: 28.4 scored, 17.0 allowed
+- KC: 28.8 scored, 19.6 allowed
+
+RECENT FORM:
+- BUF: W-W-L-W-W
+- KC: W-W-W-L-W
+
+Predict: Winner, final score, and 2-3 key factors that will determine the outcome.

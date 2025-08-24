@@ -1,7 +1,9 @@
+=== COMPREHENSIVE PROMPT ===
+
 NFL Game Prediction Analysis
 
 MATCHUP: Buffalo Bills @ Kansas City Chiefs
-DATE: Tue Sep 09 2025
+DATE: 2025-09-12
 WEEK: 1 (Regular Season)
 
 === TEAM INFORMATION ===
@@ -22,7 +24,7 @@ Kansas City Chiefs (KC):
 
 Buffalo Bills Offense/Defense:
 - Average Points Scored: 28.4 per game
-- Average Points Allowed: 17 per game
+- Average Points Allowed: 17.0 per game
 - Total Points For: 483
 - Total Points Against: 289
 - Point Differential: +194
@@ -42,10 +44,10 @@ Kansas City Chiefs Last 5 Games: W-W-W-L-W
 === HEAD-TO-HEAD HISTORY ===
 
 All-Time Series: Kansas City Chiefs 0-0-0 Buffalo Bills
-No recent meetings found
+Last Meeting: 1970-01-01 - KC 0, BUF 0
 Average Points in Head-to-Head:
-- Kansas City Chiefs: 0.0 points
-- Buffalo Bills: 0.0 points
+- Kansas City Chiefs: 20.0 points
+- Buffalo Bills: 20.0 points
 
 === INJURY REPORT & KEY PLAYERS ===
 
@@ -55,7 +57,11 @@ Buffalo Bills Key Players: Josh Allen, Stefon Diggs, Von Miller
 Kansas City Chiefs Injuries: WR2 - Questionable
 Kansas City Chiefs Key Players: Patrick Mahomes, Travis Kelce, Chris Jones
 
-
+=== WEATHER CONDITIONS ===
+Temperature: 72.0°F
+Wind Speed: 8.0 mph
+Conditions: Partly Cloudy
+Precipitation: 10.0%
 
 === ANALYSIS REQUEST ===
 
@@ -69,3 +75,24 @@ Based on the comprehensive data above, please provide:
 6. **FINAL SCORE PREDICTION**: Provide an exact score prediction
 
 Consider all statistical trends, recent form, injuries, weather (if applicable), home field advantage, divisional rivalry dynamics, and historical matchup patterns in your analysis.
+
+=== QUICK PROMPT ===
+
+Quick NFL Game Prediction
+
+MATCHUP: Buffalo Bills @ Kansas City Chiefs
+WEEK: 1
+
+RECORDS:
+- BUF: 13-4-0 (Away: 6-2)
+- KC: 14-3-0 (Home: 8-1)
+
+SCORING AVERAGES:
+- BUF: 28.4 scored, 17.0 allowed
+- KC: 28.8 scored, 19.6 allowed
+
+RECENT FORM:
+- BUF: W-W-L-W-W
+- KC: W-W-W-L-W
+
+Predict: Winner, final score, and 2-3 key factors that will determine the outcome.
